@@ -1,6 +1,8 @@
 # Comentario 1
 # Comentario 2
 # Cambio desde master
+# Cambio 1
+# Cambio 2
 zone practicadaw.net {
 	type master;
 	file "/etc/bind/db.practicadaw.net";
